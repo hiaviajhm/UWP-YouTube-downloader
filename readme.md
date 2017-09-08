@@ -13,13 +13,14 @@ FREE FREE FREE.
 
 
 
-### Tech
+### Tech/Libraries
 * [UWP C#] - Core code base
 * [XAML] - User interface
-
+* [Jint] Javascript intepreter https://github.com/sebastienros/jint
 
 ### Required Installation
 * Visual Studio 2015 and above, with UWP development environment installed.
+* SQLite for Universal Windows Platform: https://sqlite.org/2017/sqlite-uwp-3200100.vsix
 
 ### Development
 Want to contribute? Great! FORK IT, PUBLISH IT!
