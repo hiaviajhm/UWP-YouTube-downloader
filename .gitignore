@@ -13,7 +13,8 @@ Libraries/YouTube/obj/*
 Libraries/YouTube/bin/*
 Libraries/UnitTest/bin/*
 Libraries/UnitTest/obj/*
-
+Main Application/obj/*
+Main Application/bin/*
 
 # Windows Installer files
 *.cab
