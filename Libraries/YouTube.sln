@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeStreamAPI", "YouTube\YouTubeStreamAPI.csproj", "{1C8297E8-B841-42D2-9ECA-FCAF73080536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jint", "jint-2.9\Jint\Jint.csproj", "{678738DA-F723-4920-B9E5-CAD667104BDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{319E3A7B-8005-4B57-97E4-9B8E515345B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C8297E8-B841-42D2-9ECA-FCAF73080536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8297E8-B841-42D2-9ECA-FCAF73080536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8297E8-B841-42D2-9ECA-FCAF73080536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8297E8-B841-42D2-9ECA-FCAF73080536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{678738DA-F723-4920-B9E5-CAD667104BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678738DA-F723-4920-B9E5-CAD667104BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678738DA-F723-4920-B9E5-CAD667104BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678738DA-F723-4920-B9E5-CAD667104BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{319E3A7B-8005-4B57-97E4-9B8E515345B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319E3A7B-8005-4B57-97E4-9B8E515345B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319E3A7B-8005-4B57-97E4-9B8E515345B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319E3A7B-8005-4B57-97E4-9B8E515345B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
