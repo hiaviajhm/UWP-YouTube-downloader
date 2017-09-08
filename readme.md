@@ -21,6 +21,7 @@ FREE FREE FREE.
 ### Required Installation
 * Visual Studio 2015 and above, with UWP development environment installed.
 * SQLite for Universal Windows Platform: https://sqlite.org/2017/sqlite-uwp-3200100.vsix
+* Microsoft Advertising SDK: https://marketplace.visualstudio.com/items?itemName=AdMediator.MicrosoftAdvertisingSDK
 
 ### Development
 Want to contribute? Great! FORK IT, PUBLISH IT!
