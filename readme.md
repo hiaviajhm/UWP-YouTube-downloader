@@ -11,8 +11,6 @@ FREE FREE FREE.
  - Optimized for both Windows Mobile 10 and Windows 10 (Laptop, Desktop, Tablet)
 
 
-
-
 ### Tech/Libraries
 * [UWP C#] - Core code base
 * [XAML] - User interface
@@ -22,6 +20,9 @@ FREE FREE FREE.
 * Visual Studio 2015 and above, with UWP development environment installed.
 * SQLite for Universal Windows Platform: https://sqlite.org/2017/sqlite-uwp-3200100.vsix
 * Microsoft Advertising SDK: https://marketplace.visualstudio.com/items?itemName=AdMediator.MicrosoftAdvertisingSDK
+
+### API Keys
+Please check out 'UWP-YouTube-downloader\Main Application\APIConstants.cs'. YOU NEED your own API keys!!!
 
 ### Development
 Want to contribute? Great! FORK IT, PUBLISH IT!
